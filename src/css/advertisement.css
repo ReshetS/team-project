@@ -1,1 +1,16 @@
 /* Styles for Advertisement section */
+.advertisement {
+  background-color: #fbfbfb;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+.advertisement .container {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.discount-title {
+  background-color: #576f35;
+}
+.discount-description {
+  color: #141414;
+}
